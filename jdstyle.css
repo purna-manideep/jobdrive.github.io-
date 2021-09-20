@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+div.hea{
+  width: 100%;
+  height: 150px;
+  padding-top: 15px;
+  background-color:#33E3FF; 
+  text-align:center;
+ }
+
+div.Companey_Details{
+  width: 100%;
+  padding: 15px;
+  border: black;
+  text-align: center;
+  font-size: 25px;
+}
+div.jobrole{
+  font-size: 24px;
+  padding: 20px;
+}
+div.jobrole_2{
+  font-size: 24px;
+  padding: 20px;
+}
+img{
+  width: 90%;
+  padding-left: 30px;
+  align-content: center;
+}
